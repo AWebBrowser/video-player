@@ -1,7 +1,8 @@
-.video{
+.Video{
 	width:560;
 	height:315;
 }
 body{
-	background-color: red;
+	background-color: #000000;
+	background-image: url('https://zippy.gfycat.com/HatefulIllGrayling.gif')
 }
